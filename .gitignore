@@ -1,0 +1,6 @@
+.env
+.env.vendor
+*.pem
+*.db
+*.log
+__pycache__/
